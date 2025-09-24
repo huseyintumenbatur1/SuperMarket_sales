@@ -1,15 +1,15 @@
 # Supermarket Sales Analizi
 
-Bu proje, **supermarket satış verilerini** analiz ederek müşteri davranışlarını, ödeme yöntemlerini ve satış trendlerini ortaya koymaktadır. Analiz, Python (Pandas, Matplotlib, Seaborn) kullanılarak yapılmıştır.
+Bu proje, *supermarket satış verilerini* analiz ederek müşteri davranışlarını, ödeme yöntemlerini ve satış trendlerini ortaya koymaktadır. Analiz, Python (Pandas, Matplotlib, Seaborn) kullanılarak yapılmıştır.
 
 ---
 
 ## 🔍 Öne Çıkan Bulgular
-- **En çok tercih edilen ödeme yöntemi:** Ewallet  
-- **Ciro lideri ürün kategorisi:** [Grafikten sen yaz]  
-- **Pik satış ayı:** [Mayıs 2019 gibi ekle]  
-- **En yoğun satış saati:** [grafikten al]  
-- **Cinsiyet bazlı:** Kadın müşteriler daha yüksek ortalama harcama yapıyor (örnek).  
+- **En çok tercih edilen ödeme yöntemi:E wallet  %34.5
+- **Ciro lideri ürün kategorisi:Food and beverages  
+- **Pik satış ayı: Ocak 
+- **En yoğun satış saati:19
+- **Cinsiyet bazlı: Erkek müşteriler daha fazla harcama yapıyor.  
 
 ---
 
