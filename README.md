@@ -47,4 +47,4 @@ Bu proje, *supermarket satış verilerini* analiz ederek müşteri davranışlar
 ---
 
 ## Kaynak
-Dataset: Supermarket Sales (Kaggle)
+Dataset: Supermarket Sales: https://www.kaggle.com/datasets/akashbommidi/super-market-sales
