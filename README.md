@@ -9,7 +9,7 @@ Bu proje, *supermarket satış verilerini* analiz ederek müşteri davranışlar
 - **Ciro lideri ürün kategorisi:Food and beverages  
 - **Pik satış ayı: Ocak 
 - **En yoğun satış saati:19
-- **Cinsiyet bazlı: Erkek müşteriler daha fazla harcama yapıyor.  
+- **Cinsiyet bazlı: Kadınlar daha fazla harcama yapıyor. 
 
 ---
 
